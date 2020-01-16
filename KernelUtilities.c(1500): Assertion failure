@@ -1,0 +1,6 @@
+Hi, I have an iphone xr with ios 12.4.1 and I am trying to jailbreak with Unc0ver 3.8.0 b1, but it gives me an error and the phone restarts.
+The mistake is:
+KernelUtilitiesc. (1500): Assertion failure, 
+and then before restarting I get this:
+local_sendrecv_port: 0xb103.
+please help.
